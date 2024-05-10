@@ -19,7 +19,6 @@ type Login_Request struct {
 	Password string `json:"password"`
 }
 
-// swagger:model User
 type JWTClaims struct {
 	Uuid string `json:"id"`
 	jwt.StandardClaims
