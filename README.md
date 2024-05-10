@@ -82,6 +82,6 @@ Contoh Raw Json:
 }
 ```
 --------
+NB: saya menyertakan Export sql yang saya gunakan pada folder sql-database
 
-##  mohon maaf karena goswagger yang terinstal tidak dapat di init. sSaya memberikan dokumentasi berupa readme.md
-##  atas perhatiannya saya ucapkan terima kasih 
+##  mohon maaf karena goswagger yang terinstal tidak dapat di init. Saya memberikan dokumentasi berupa readme.md. Atas perhatiannya saya ucapkan terima kasih.
