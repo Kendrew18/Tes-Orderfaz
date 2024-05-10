@@ -33,3 +33,17 @@ Contoh Raw Json:
         "password":"denz123"
     }
 ```
+
+##  Login
+
+Link: localhost:38600/AUTH/get-profile
+
+Method: GET
+
+Header: 
+
+keys | value
+------------ | -------------
+Authorization | <token>
+
+Contoh Raw Json: -
