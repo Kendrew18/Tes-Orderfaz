@@ -81,3 +81,7 @@ Contoh Raw Json:
   "destination_name":"Surabaya"
 }
 ```
+--------
+
+##  mohon maaf karena goswagger yang terinstal tidak dapat di init. sSaya memberikan dokumentasi berupa readme.md
+atas perhatiannya saya ucapkan terima kasih 
