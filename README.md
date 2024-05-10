@@ -1,9 +1,13 @@
 # How TO Use API 
 __________
 ##  Register
+
 Link: localhost:38600/AUTH/register
+
 Method: POST
+
 Header: -
+
 Json:
     {
         "name" : "Alex",
